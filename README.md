@@ -1,4 +1,4 @@
-## **_Website_**:[https://durgahammenu.ccbp.tech/](https://durgahammenu.ccbp.tech/)🔗
+## **_Website_**:[https://sanojhammenu.ccbp.tech/](https://sanojhammenu.ccbp.tech/)🔗
 
 
 In this project, let's build a **Hamburger Menu** app by applying the concepts we have learned till now.
